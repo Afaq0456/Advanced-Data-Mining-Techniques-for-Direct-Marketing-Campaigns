@@ -10,8 +10,8 @@ Direct marketing campaigns play a crucial role in business strategies. This proj
 The dataset used in this project is "bank-additional.csv." It contains various features related to marketing campaigns and whether the client subscribed to a term deposit ('yes' or 'no'). The goal is to predict the success of future marketing campaigns based on this data.
 
 ## Models Used
-**Artificial Neural Network (ANN) //
-Gradient Boosting Machine (GBM)**
+**1. Artificial Neural Network (ANN)**
+**2. Gradient Boosting Machine (GBM)**
 
 ## Results
 ANN Accuracy: 0.8840738043214372
